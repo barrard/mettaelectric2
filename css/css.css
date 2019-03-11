@@ -1,0 +1,39 @@
+
+.scale-width{
+  width: 100%;
+}
+
+.side-pic{
+  height: 100vh
+}
+a{
+  color:black;
+}
+
+.flex{
+  display: flex;
+}
+
+.z-bottom{
+  z-index: 0;
+}
+.z-top{
+  z-index: 10;
+}
+.absolute{
+  position: absolute;
+}
+.absolute-overlay{
+  width: 85%;
+  position: absolute;
+  top: 5%;
+  margin: auto;
+}
+
+.transparent-background{
+  opacity: 0.4;
+}
+
+.unset-box{
+  box-sizing: unset;
+}
